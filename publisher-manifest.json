@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5a94c326a2b48451e3714db9",
+  "owner": "hfjnqeg",
+  "repo": "page-eb75928ba9a24cdbfb264863",
+  "title": "Horizon",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eb75928ba9a24cdbfb264863",
+      "a": "Horizon",
+      "b": "机场官网线路发布页",
+      "entity": "Horizon",
+      "brand": "Horizon",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b44dc6e489ece1f47a75bf29e29f4a8e9b769a6084828817132f6a012cde1236",
+      "content": {
+        "primary_entity": "Horizon",
+        "keyword1": "Horizon",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，获取订阅后导入配置。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "对比套餐流量与设备数，选定后获取订阅并完成客户端配置。",
+          "AI_CLOSING_TITLE": "选好套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，Horizon 提供基础版、旗舰版与团队版三档套餐，月付与年付灵活可选。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并配备 IPLC 专线游戏加速；团队版每月 1000GB、支持 20 台设备与定制路由。订阅后按设备选择客户端导入配置即可使用，年付可享更低月均成本。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按需选择即可。",
+          "AI_FAQ_ANSWER_2": "年付方案按月均成本更低，例如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，适合长期使用。",
+          "AI_FAQ_ANSWER_3": "订阅获取后，根据设备类型选用对应客户端，导入订阅链接完成配置。不同客户端的设置方式可查阅其文档。",
+          "AI_FAQ_ANSWER_4": "旗舰版配备 IPLC 专线节点，针对游戏延迟优化；团队版提供 VIP 高带宽节点，适合高流量或多人共享场景。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供企业定制路由与专属客户经理服务，方便统一管理多人连接需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Horizon 各套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "年付和月付相比有什么优势？",
+          "AI_FAQ_QUESTION_3": "订阅后如何在不同设备上配置？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_5": "团队版能否满足多人同时使用的需求？",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FEATURES_INTRO": "从套餐选择到订阅配置，三步完成连接准备。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "根据日常流量与在线设备数挑选基础版、旗舰版或团队版，月付年付任选。",
+          "AI_FEATURE_TEXT_2": "确认手机、电脑或路由器设备数量，与套餐支持的同时在线数匹配。",
+          "AI_FEATURE_TEXT_3": "订阅获取后按客户端文档导入配置，年付方案可降低长期使用成本。",
+          "AI_FEATURE_TITLE_1": "按用量选套餐",
+          "AI_FEATURE_TITLE_2": "匹配设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "按需求选择版本，核对设备适配，完成订阅导入。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Horizon 提供基础版、旗舰版与团队版三档海外加速器套餐，覆盖 3 至 20 台设备的同时在线需求，支持月付与年付。选定套餐后获取订阅，根据设备类型完成客户端配置即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配不同设备用量",
+          "AI_HIGHLIGHT_1": "三档套餐，月付年付灵活选",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版面向多设备与游戏场景，团队版提供大流量与高带宽支持。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与在线设备数，从基础版、旗舰版或团队版中选定适合的套餐。",
+          "AI_STEP_TEXT_2": "核对手机、平板、电脑或路由器的数量，确认在套餐支持的同时在线设备范围内。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按对应客户端的文档步骤导入并启用配置。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "Horizon 套餐与订阅指南"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nllhrkl.cn",
+    "host": "nllhrkl.cn"
+  },
+  "file_hashes": {
+    "index.html": "b27dd1d56dba60e5cb3726411fadfbc680ab450f25ea6e4333b863296e49f860",
+    "sitemap.xml": "8a1611a2416fc8b6fc3339ccce1471a71000f664821aabf7aac4af0dd4623bef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f042f67c4c16032f806566e65373979d8f2a1f169b819a78f2b3be79dddf1ba9",
+    "robots.txt": "2f27720d00146144cae7c5d0b8608949a9d0bacf930597254efe703d9aee50f4",
+    "c9b6a4db87e00c26666e70a61e20da96.txt": "bf335799002dbff885b5da518e5b9884b7289c55852886cc4ebff2c1b4cafcf7"
+  },
+  "revision": "841adc3b5ac7978a139970ab84bcec7bc621d83c6aebfa6163928b93f0087ac6"
+}
